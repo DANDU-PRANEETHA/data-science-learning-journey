@@ -1,4 +1,4 @@
-# 05_EDA_Advanced
+# 05_EDA
 
 ## 📌 Module Overview
 This module extends **Exploratory Data Analysis (EDA)** by applying **advanced statistical techniques and visualizations** to gain deeper insights from data.
@@ -65,7 +65,7 @@ It focuses on understanding complex relationships, distributions, and feature in
 ---
 
 ## 🔜 Next Module
-➡️ **06_Feature_Engineering**
+➡️ **06 Hypothesis Testing & Inference**
 
 In the next module, we focus on transforming raw data into meaningful features for machine learning models.
 
