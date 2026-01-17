@@ -1,4 +1,4 @@
-# 04_Exploratory_Data_Analysis
+# 04 Introductory Statistics – Part II
 
 ## 📌 Module Overview
 This module focuses on **Exploratory Data Analysis (EDA)** to understand data structure, patterns, and relationships before applying machine learning models.
@@ -66,7 +66,7 @@ EDA helps identify trends, anomalies, missing values, and correlations using sta
 ---
 
 ## 🔜 Next Module
-➡️ **05_EDA_Advanced**
+➡️ **05_EDA**
 
 This module deepens EDA with advanced visualization and feature-level analysis.
 
