@@ -65,7 +65,7 @@ It focuses on understanding Python syntax, core concepts, and basic problem-solv
 ---
 
 ## 🔜 Next Module
-➡️ **02_Python_Libraries (NumPy & Pandas)**
+➡️ **Data Structures, Functions, NumPy & Pandas**
 
 The next module focuses on using Python libraries to perform data manipulation, numerical operations, and basic data analysis.
 
